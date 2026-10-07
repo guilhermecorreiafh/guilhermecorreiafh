@@ -15,7 +15,7 @@ ATTRIBUTE              VALUE
 ---------------------- ------------------------------------------
 NAME                   Guilherme Correia
 ROLE                   IT Intern @ Santos Brasil
-LOCATION               Santos, SP - Brazil
+LOCATION               São Paulo, SP - Brazil
 EDUCATION              Information Systems - UNISANTA
 SEMESTER               Xth
 MAIN_STACK             C#, .NET, Oracle SQL, PL/SQL
