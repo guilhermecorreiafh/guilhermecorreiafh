@@ -17,7 +17,7 @@ NAME                   Guilherme Correia
 ROLE                   IT Intern @ Santos Brasil
 LOCATION               São Paulo, SP - Brazil
 EDUCATION              Information Systems - UNISANTA
-SEMESTER               Xth
+SEMESTER               6th
 MAIN_STACK             C#, .NET, Oracle SQL, PL/SQL
 OTHER_LANGUAGES        Java, Kotlin, TypeScript
 FRAMEWORKS             .NET Framework, WinForms, React
