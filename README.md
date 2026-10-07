@@ -13,7 +13,7 @@ guilherme@correia ---------------------------------------------------------
 . OS: ........................... Windows 11
 . Host: ......................... Universidade Santa Cecília
 . Education: .................... Information Systems
-. Semester: ..................... Xth
+. Semester: ..................... 6th
 . IDE: .......................... Visual Studio, VS Code, Android Studio
 .
 . Languages.Programming: ........ C#, Java, Kotlin, TypeScript
