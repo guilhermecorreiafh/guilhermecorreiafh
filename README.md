@@ -1,14 +1,38 @@
-## Oi, eu sou o Guilherme 👋
+```
+         ┌────┬────┬────┬────┐
+         │░░░░│▒▒▒▒│░░░░│▓▓▓▓│
+         ├────┼────┼────┼────┤
+         │▓▓▓▓│░░░░│▒▒▒▒│░░░░│
+     ____└────┴────┴────┴────┘____
+     \                            /
+      \     G U I L H E R M E    /
+  ~~~~~\________________________/~~~~~
+    ~~      ~~~      ~~      ~~~
 
-Estagiário de TI na Santos Brasil, no time de sistemas operacionais do terminal.
-No dia a dia mexo com C#, .NET (Framework e Core) e muito Oracle SQL, mantendo
-sistemas que integram o terminal com o Portal Único / Siscomex.
-
-Faço Sistemas de Informação na UNISANTA, em Santos.
-
-**O que eu uso:** C# · .NET · Oracle SQL · Windows Services · Kotlin (Android) · Git
-
-**Projeto em destaque:** [uptime-monitor](https://github.com/guilhermecorreiafh/uptime-monitor),
-um monitor de disponibilidade que estou construindo pra estudar além do que vejo no trabalho.
-
-📫 [LinkedIn](COLE_SEU_LINK_AQUI)
+guilherme@correia ---------------------------------------------------------
+. OS: ........................... Windows 11
+. Host: ......................... Universidade Santa Cecília
+. Education: .................... Information Systems
+. Semester: ..................... Xth
+. IDE: .......................... Visual Studio, VS Code, Android Studio
+.
+. Languages.Programming: ........ C#, Java, Kotlin, TypeScript
+. Languages.Database: ........... Oracle SQL, PL/SQL
+. Languages.Real: ............... Portuguese, English
+.
+. Frameworks: ................... .NET, .NET Framework, WinForms, React
+. Tools: ........................ Git, Docker, n8n, Grafana
+. Learning: ..................... React, AI, Distributed Systems
+. Focus: ........................ Back-End .NET -> Full-Stack
+.
+. Hobbies: ...................... Surf, exploring new places
+.
+- Contact -----------------------------------------------------------------
+. Email: ........................ guilherme.henrique4782@gmail.com
+. LinkedIn: ..................... linkedin.com/in/guilherme-correia-b0a816261
+.
+- Status ------------------------------------------------------------------
+. Location: ..................... São Paulo, SP, Brazil
+. Role: ......................... IT Intern @ Santos Brasil
+. Projects: ..................... uptime-monitor, PZaaS API Gateway
+```
