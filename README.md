@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oi, eu sou o Guilherme 👋
 
-<!--
-**guilhermecorreiafh/guilhermecorreiafh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estagiário de TI na Santos Brasil, no time de sistemas operacionais do terminal.
+No dia a dia mexo com C#, .NET (Framework e Core) e muito Oracle SQL, mantendo
+sistemas que integram o terminal com o Portal Único / Siscomex.
 
-Here are some ideas to get you started:
+Faço Sistemas de Informação na UNISANTA, em Santos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**O que eu uso:** C# · .NET · Oracle SQL · Windows Services · Kotlin (Android) · Git
+
+**Projeto em destaque:** [uptime-monitor](https://github.com/guilhermecorreiafh/uptime-monitor),
+um monitor de disponibilidade que estou construindo pra estudar além do que vejo no trabalho.
+
+📫 [LinkedIn](COLE_SEU_LINK_AQUI)
