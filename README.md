@@ -21,7 +21,7 @@ SEMESTER               6th
 MAIN_STACK             C#, .NET, Oracle SQL, PL/SQL
 OTHER_LANGUAGES        Java, Kotlin, TypeScript
 FRAMEWORKS             .NET Framework, ASP.NET Core, WinForms, React
-TOOLS                  Git, Docker, n8n, Grafana
+TOOLS                  Git, Docker, PostgreSQL, Playwright, n8n, Grafana
 IDE                    Visual Studio, VS Code, Android Studio
 LEARNING               React, AI, Distributed Systems
 FOCUS                  Back-End .NET -> Full-Stack
