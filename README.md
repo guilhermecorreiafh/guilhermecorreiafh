@@ -29,6 +29,7 @@ PROJECTS               uptime-monitor, job-tracker, PZaaS API Gateway
 HOBBIES                Surfing, exploring new places
 EMAIL                  guilherme.henrique4782@gmail.com
 LINKEDIN               linkedin.com/in/guilherme-correia-b0a816261
+PORTFOLIO              https://guilhermecorreiafh.github.io
 
 16 rows selected.
 
